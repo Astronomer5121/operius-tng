@@ -1,0 +1,66 @@
+{
+    "name": "Operius - The Next Generation",
+    "description": "The Sequel of the remake, But cooler",
+    "dependencies": {
+        "device": "*",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.0.1",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "arcade-screen-transitions": "github:riknoll/arcade-screen-transitions#v0.1.0",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "pxt.json",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.57",
+        "tag": "v1.12.57",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/50c17cec0d73d32911acd1633e6ce81b85ed2c3a",
+        "target": "1.12.58",
+        "pxt": "8.5.68",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "theme": {
+        "skin": "zune",
+        "background-color": "#FA1E4E",
+        "button-stroke": "#B8052E",
+        "text-color": "#DDD9E8",
+        "button-fill": "#B8052E",
+        "dpad-fill": "#FA1E4E"
+    },
+    "palette": [
+        "#000000",
+        "#DDD9E8",
+        "#FA1E4E",
+        "#DF2049",
+        "#FF691F",
+        "#FFDE0A",
+        "#249CA3",
+        "#78DC52",
+        "#4474EE",
+        "#87F2FF",
+        "#8E2EC4",
+        "#A4839F",
+        "#B8052E",
+        "#E5CDC4",
+        "#251F33",
+        "#372D4E"
+    ]
+}

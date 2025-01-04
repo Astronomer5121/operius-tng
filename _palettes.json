@@ -1,0 +1,97 @@
+{
+    "nextPaletteID": 4,
+    "palettes": {
+        "custom0": {
+            "id": "custom0",
+            "name": "Custom",
+            "colors": [
+                "#000000",
+                "#DDD9E8",
+                "#FA1E4E",
+                "#A8576E",
+                "#FF691F",
+                "#FFDE0A",
+                "#249CA3",
+                "#78DC52",
+                "#4474EE",
+                "#87F2FF",
+                "#8E2EC4",
+                "#A4839F",
+                "#B8052E",
+                "#E5CDC4",
+                "#251F33",
+                "#372D4E"
+            ],
+            "custom": true
+        },
+        "custom1": {
+            "id": "custom1",
+            "name": "Custom",
+            "colors": [
+                "#000000",
+                "#DDD9E8",
+                "#882D16",
+                "#DF2049",
+                "#FF691F",
+                "#FFDE0A",
+                "#249CA3",
+                "#78DC52",
+                "#4474EE",
+                "#87F2FF",
+                "#8E2EC4",
+                "#A4839F",
+                "#B8052E",
+                "#E5CDC4",
+                "#251F33",
+                "#372D4E"
+            ],
+            "custom": true
+        },
+        "custom2": {
+            "id": "custom2",
+            "name": "Custom",
+            "colors": [
+                "#000000",
+                "#385EBC",
+                "#FA1E4E",
+                "#DF2049",
+                "#FF691F",
+                "#FFDE0A",
+                "#249CA3",
+                "#78DC52",
+                "#4474EE",
+                "#87F2FF",
+                "#8E2EC4",
+                "#A4839F",
+                "#B8052E",
+                "#E5CDC4",
+                "#251F33",
+                "#372D4E"
+            ],
+            "custom": true
+        },
+        "custom3": {
+            "id": "custom3",
+            "name": "Custom",
+            "colors": [
+                "#000000",
+                "#DDD9E8",
+                "#FA1E4E",
+                "#DF2049",
+                "#FF691F",
+                "#FFDE0A",
+                "#249CA3",
+                "#78DC52",
+                "#4474EE",
+                "#87F2FF",
+                "#8E2EC4",
+                "#A4839F",
+                "#B8052E",
+                "#E5CDC4",
+                "#251F33",
+                "#372D4E"
+            ],
+            "custom": true
+        }
+    }
+}
